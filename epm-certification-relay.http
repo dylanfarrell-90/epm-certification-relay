@@ -1,0 +1,6 @@
+@epm_certification_relay_HostAddress = http://localhost:5293
+
+GET {{epm_certification_relay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
